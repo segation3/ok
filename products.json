@@ -30,6 +30,20 @@
         "title": "Galaxy S10e",
         "price": 622.99,
         "image": { "fields": { "file": { "url": "./images/product-4.jpeg" } } }
+    },
+    {
+      "sys": {
+        "id": "5"
+      },
+      "fields": {
+        "title": "Galaxy A30",
+        "price": 248.99,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/product-12.jpeg"
+            }
+          }
         }
       }
     }
