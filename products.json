@@ -3,9 +3,9 @@
     {
       "sys": { "id": "1" },
       "fields": {
-        "title": "Galaxy S10 5G",
-        "price": 910.99,
-        "image": { "fields": { "file": { "url": "./images/product-1.jpeg" } } }
+        "title": "NFA",
+        "price": 0.5,
+        "image": { "fields": { "file": { "url": "https://www.minecraft.net/content/dam/games/minecraft/screenshots/trial-hero-image-golem.png" } } }
       }
     },
     {
